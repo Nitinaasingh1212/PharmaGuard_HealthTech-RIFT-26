@@ -1,5 +1,7 @@
 # PharmaGuard: Pharmacogenomic Risk Prediction 🛡️💊
 
+**Live Demo:** [https://pharma-guard-health-tech-rift-26-yi.vercel.app/](https://pharma-guard-health-tech-rift-26-yi.vercel.app/)
+
 PharmaGuard is a state-of-the-art AI-powered platform designed to predict medication risks based on a patient's genetic profile (VCF files). It helps doctors and patients identify potential adverse drug reactions, dosage adjustments, and alternative therapies using advanced genomic analysis and Google's Gemini AI.
 
 ## 🚀 Key Features
